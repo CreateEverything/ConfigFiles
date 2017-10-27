@@ -8,9 +8,9 @@
 
 
 
-# web.xml
 <p id="web.xml"></p>
 
+# web.xml
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
@@ -34,10 +34,9 @@
 </web-app>
 
 ```
-# config-properties
-
 <p id="config-properties"></p>
 
+# config-properties
 ```file
 jdbc.driver=com.mysql.jdbc.Driver
 jdbc.url=jdbc:mysql:///enter
@@ -47,9 +46,9 @@ jdbc.password=rootroot
 
 user.config.salt=!!@@##$$%%^^//盐
 ```
-# pom.xml
 <p id="pom.xml"></p>
 
+# pom.xml
 ```xml
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
@@ -102,9 +101,9 @@ user.config.salt=!!@@##$$%%^^//盐
 
 ```
 
-# MyBatis.xml
 <p id="MyBatis.xml"><p>
 
+# MyBatis.xml
 ```xml
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE configuration
@@ -149,9 +148,9 @@ user.config.salt=!!@@##$$%%^^//盐
 </configuration>
 
 ```
-# generatorConfig.xml
 <p id="generatorConfig.xml"></p>
 
+# generatorConfig.xml
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE generatorConfiguration
