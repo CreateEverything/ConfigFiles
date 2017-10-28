@@ -2,9 +2,9 @@
 * [web.xml](#web.xml)
 * [config-properties](#config-properties)
 * [pom.xml](#pom.xml)
-* [MyBatis.xml](#MyBatis.xml)
-* [generatorConfig.xml](#generatorConfig.xml)
-* [applicationContext.xml](#applicationContext.xml)
+* [MyBatis.xml (MyBatis)](#MyBatis.xml)
+* [generatorConfig.xml (MyBatis)](#generatorConfig.xml)
+* [applicationContext.xml (Spring)](#applicationContext.xml)
 
 
 
